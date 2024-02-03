@@ -2,10 +2,6 @@
 
 Hey there! I'm a passionate programmer with expertise in various domains. Here's a glimpse of what I can do:
 
-### MTA Scripts:
-- **RolePlay** (Lua, SQL)
-- **Freeroam** (Lua, SQL)
-
 ### Web Development:
 - HTML
 - CSS
@@ -27,10 +23,10 @@ Hey there! I'm a passionate programmer with expertise in various domains. Here's
 - Browser games
 
 ### Modifications:
-- MTA:SA (Multi Theft Auto: San Andreas)
-- GTA V (Grand Theft Auto V)
-- FiveM
-- Minecraft
+- MTA:SA (Multi Theft Auto: San Andreas) -> Scripts [RolePlay, Freeroom]
+- GTA V (Grand Theft Auto V) -> Extensions
+- FiveM -> Scripts [RolePlay, Freeroom]
+- Minecraft -> Plugins [Any]
 
 ## Technologies I Love:
 
