@@ -1,17 +1,53 @@
-I am a programmer and I can do the following things:
-MTA Scripts (RolePlay, Freeroam)
-Website
-Application
-Discord bots
-Games (Browser games or Unity games)
+# Welcome to My Coding Playground! 👋
 
-#Lua,#CSharp,#HTML,#CSS,#JAVASCRIPT,#SQL,#PHP
+Hey there! I'm a passionate programmer with expertise in various domains. Here's a glimpse of what I can do:
 
-My NPM Package for discord bots
-https://www.npmjs.com/package/hafex_api
+- **MTA Scripts:**
+  - RolePlay (Lua, SQL)
+  - Freeroam (Lua, SQL)
 
-My Discord BOT HafeX
-https://hafex.xyz/
-https://discord.gg/yqbaHPHz
+- **Web Development:**
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - Python
 
-If you read this, thank you and I hope you will contact me!
+- **Application Development:**
+  - CSharp
+  - C++
+  - Python
+  - Xamarin (C#/XAML)
+
+- **Discord Bots:**
+  - JavaScript
+  - Python
+
+- **Games:**
+  - Browser games
+
+- **Modifications**
+  - MTA:SA (Multi Theft Auto: San Andreas)
+  - GTA V (Grand Theft Auto V)
+  - FiveM
+  - Minecraft
+
+
+## Technologies I Love:
+
+- Lua
+- CSharp
+- HTML
+- CSS
+- JavaScript
+- SQL
+- PHP
+
+## Check out My Projects:
+
+- **NPM Package:** [hafex_api](https://www.npmjs.com/package/hafex_api)
+- **Private Hosting:** [RecHost](https://rechost.recuvapumdev.eu/)
+- **My Web:** [RecuvaPumDEV](https://recuvapumdev.eu)
+  - Join my Discord server: [RecuvaPumDEV](https://discord.gg/zThUj4JWm2)
+
+If you've made it this far, thank you for reading! Feel free to contact me—I'm always up for a coding adventure. 🚀
