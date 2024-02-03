@@ -51,4 +51,9 @@ Hey there! I'm a passionate programmer with expertise in various domains. Here's
 
 ![GitHub followers](https://img.shields.io/github/followers/RecuvaPumDEV?label=Follow&style=social)
 
+## Check out my video/stream work:
+
+- **Twitch:** [RecuvaPumDEV](https://www.twitch.tv/recuvapumdev)
+- **YouTube:** [RecuvaPumDEV](https://www.youtube.com/channel/UCcTftRZ-LVEqF8rWGEPiiMw)
+
 If you've made it this far, thank you for reading! Feel free to contact me—I'm always up for a coding adventure. 🚀
