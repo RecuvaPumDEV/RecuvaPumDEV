@@ -41,7 +41,7 @@ Hey there! I'm a passionate programmer with expertise in various domains. Here's
 ## Check out My Projects:
 
 - **NPM Package:** [hafex_api](https://www.npmjs.com/package/hafex_api)
-- **Private Hosting:** [RecHost](https://rechost.recuvapumdev.eu/)
+- **Private Hosting:** [RecHost](https://rechost.eu/)
 - **My Web:** [RecuvaPumDEV](https://recuvapumdev.eu)
   - Join my Discord server: [RecuvaPumDEV](https://discord.gg/zThUj4JWm2)
 
