@@ -28,8 +28,14 @@ Hey there! I'm a passionate programmer with expertise in various domains. Here's
 - FiveM -> Scripts [RolePlay, Freeroom]
 - Minecraft -> Plugins [Any]
 
+### Electronics & IoT:
+- Arduino: Programming and electronics projects with Arduino boards.
+- ESP: Working with ESP8266/ESP32 for IoT and wireless communication.
+
 ## Technologies I Love:
 
+- ESP
+- Arduino
 - Lua
 - CSharp
 - HTML
